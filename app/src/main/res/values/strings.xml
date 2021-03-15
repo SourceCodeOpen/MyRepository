@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CallPhone</string>
+    <string name="button">Button</string>
+    <string name="id">ID</string>
+    <string name="password">Password</string>
+    <string name="test">同意协议</string>
+</resources>
